@@ -33,40 +33,40 @@ Microsoft SQL Server
 ![Login Page](screenshot/LoginPage.png)
 
 ### User Registration Page
-![Register](Register.png)
+![Register](screenshot/Register.png)
 
 ### User Registration (Password Visible)
-![Register1](Register1.png)
+![Register1](screenshot/Register1.png)
 
 ### Admin Dashboard
-![Admin Dashboard](Admin Dashboard.png)
+![Admin Dashboard](screenshot/Admin Dashboard.png)
 
 ### User Dashboard
-![Dashboard](Dashboard.png)
+![Dashboard](screenshot/Dashboard.png)
 
 ### Product Listing Page
-![Products](Products.png)
+![Products](screenshot/Products.png)
 
 ### Shopping Cart (Empty)
-![Cart](Cart.png)
+![Cart](screenshot/Cart.png)
 
 ### Shopping Cart With Items
-![Cart With Items](Cart-1.png)
+![Cart With Items](screenshot/Cart-1.png)
 
 ### My Orders Page
-![My Orders](MyOrders.png)
+![My Orders](screenshot/MyOrders.png)
 
 ### Order Success Message
-![New Order Added](New Order Added.png)
+![New Order Added](screenshot/New Order Added.png)
 
 ### Admin Product Control Panel
-![Product Control Panel](Product Control Panel.png)
+![Product Control Panel](screenshot/Product Control Panel.png)
 
 ### Add Product Page
-![Add Product](Add Product.png)
+![Add Product](screenshot/Add Product.png)
 
 ### Edit Product Page
-![Product Edit](Product Edit.png)
+![Product Edit](screenshot/Product Edit.png)
 
 
 ## Future Improvements
