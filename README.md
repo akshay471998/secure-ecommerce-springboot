@@ -30,7 +30,7 @@ Microsoft SQL Server
 ## Screenshots
 
 ### Login Page
-![Login Page](LoginPage.png)
+![Login Page](screenshot/LoginPage.png)
 
 ### User Registration Page
 ![Register](Register.png)
